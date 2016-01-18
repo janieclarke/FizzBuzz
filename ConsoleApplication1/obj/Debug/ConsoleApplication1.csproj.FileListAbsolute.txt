@@ -1,0 +1,5 @@
+C:\Users\Janie\Documents\Source\FizzBuzz\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Janie\Documents\Source\FizzBuzz\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Janie\Documents\Source\FizzBuzz\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Janie\Documents\Source\FizzBuzz\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Janie\Documents\Source\FizzBuzz\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
